@@ -1,0 +1,122 @@
+body{
+
+    background-color: rgb(46, 46, 46);
+
+}
+div.div1{
+
+    height: 65px;
+    width: fit-content;
+    border-color: red;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 10px;
+    margin: auto;
+    padding: 30px;
+    background-color: rgb(85, 85, 252);
+
+}
+img.img1{
+
+    width: 100px;
+
+    border-color: red;
+    border-width: 1px;
+    border-style: solid;
+
+    color: white;
+
+    float: left;
+
+}
+h1.titulo{
+
+    width: 300px;
+    height: fit-content;
+    
+    border-color: red;
+    border-width: 1px;
+    border-style: solid;
+
+    text-align: center;
+
+    margin-top: auto;
+
+    padding: 13px 0px 13px 0px;
+
+    float: left;
+
+}
+img.img2{
+
+    width: 100px;
+
+    border-color: red;
+    border-width: 1px;
+    border-style: solid;
+
+    margin: auto;
+
+    float: left;
+
+}
+div.div2{
+
+    width: 700px;
+    height: 500px;
+
+    background-color: white;
+    border-radius: 10px;
+    border-color: red;
+    border-width: 1px;
+    border-style: solid;
+    
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+div.div3{
+
+    width: 100px;
+    border-color: red;
+    border-width: 1px;
+    border-style: solid;
+
+    margin-right: 15px;
+
+    float: left;
+
+}
+div.div4{
+
+    width: 100px;
+    border-color: red;
+    border-width: 1px;
+    border-style: solid;
+
+    float: left;
+
+}
+div.div5{
+
+    width: 100px;
+    border-color: red;
+    border-width: 1px;
+    border-style: solid;
+
+    margin-right: 15px;
+
+    float: left;
+
+}
+div.div6{
+
+    width: 100px;
+    border-color: red;
+    border-width: 1px;
+    border-style: solid;
+
+    float: left;
+
+}
